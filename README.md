@@ -14,23 +14,24 @@ find out.
 |---|---|
 | **Govern** | Panzura — how data is stored and governed |
 | **Secure** | Lacework (Fortinet) — how it is secured and monitored |
-| **Consume** | Storytime AI — how AI systems consume it |
+| **Consume** | Lulu — how AI systems consume it |
 | **Activate** | NetApp StorageGRID — activating enterprise data for AI at scale |
 
-## What's here
+## Recent work
 
-**[contractiq](https://github.com/Ankita301/contractiq)** — Extracts key terms
-from NDAs and MSAs with page-level attribution and confidence scoring, and
-answers questions from the contract rather than from the model. Next.js 14,
-Supabase, zod, Vitest. The
-[PRD](https://github.com/Ankita301/contractiq/blob/main/docs/ContractIQ_PRD.md)
-covers grounding strategy, hallucination guardrails and evaluation design; the
-[security plan](https://github.com/Ankita301/contractiq/blob/main/docs/security/security-plan.md)
-covers auth, RLS and LLM handling.
+**ContractIQ** — Extracts key terms from NDAs and MSAs with page-level
+attribution and confidence scoring, and answers questions from the contract
+rather than from the model. Next.js 14, Supabase, zod, Vitest. The PRD covers
+grounding strategy, hallucination guardrails and evaluation design; the security
+plan covers auth, RLS and LLM handling. The first scored evaluation run put
+relevance at 100% and retrieval at 80%, which named retrieval as the gap.
 
-Other work — an agentic knowledge-compilation system, a retrieval assistant
-running in production, and a voice-first GenAI product for children — lives in
-private repos or belongs to former employers.
+Alongside it: an agentic knowledge-compilation system, a retrieval assistant
+running in production, and a voice-first GenAI product for children.
+
+**The repos are private — happy to walk through any of them on request. I work
+in security, after all.** The write-ups are public:
+[ankita301.github.io/portfolio](https://ankita301.github.io/portfolio/)
 
 ## How I work
 
@@ -40,5 +41,5 @@ product you do not understand yet.
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/ankitabhargava) ·
-ankita.bhargava301@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/abhargava-pm/) ·
+[Portfolio](https://ankita301.github.io/portfolio/)
